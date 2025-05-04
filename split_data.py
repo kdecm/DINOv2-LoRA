@@ -3,7 +3,7 @@ import shutil
 import random
 
 # Define the path to your dataset directory
-dataset_dir = "/home/UserData/Efrem/dino/LoRA/seed_dataset/"  # Replace this with your dataset folder path
+dataset_dir = "/home/UserData/dino/LoRA/seed_dataset/"  # Replace this with your dataset folder path
 
 # Define the train, validation, and test directories
 train_dir = 'path_to_train_dir'  # Replace with your desired train directory path
