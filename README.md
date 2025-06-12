@@ -1,1 +1,1 @@
-# DINOv2-LoRA
+# PLoRA
